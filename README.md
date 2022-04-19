@@ -33,3 +33,15 @@
 ### Frameworks
 * [Go frameworks](https://awesome-go.com/)
 * [Uber Go Style Guide](https://github.com/uber-go/guide)
+
+### Testings
+* Testify
+
+### Desarollo Web
+* Echo
+* Gin
+* Websockets
+
+### DB
+* SQLx
+* MongoDB
